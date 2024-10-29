@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "16bf6484-e36c-4af7-a4c5-ff772d7b0ea3"
+      }
+    },
+    "android": {
+      "package": "com.bgremover"
+    }
+  }
+}
